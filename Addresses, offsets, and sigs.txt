@@ -1,6 +1,6 @@
-MKODOK 1.21.1 and 1.22.
+MKODOK 1.21.1 (Could possibly be the same for 1.22, cant be sure tho)
 
-Imagebase: 7FF725B20000
+1.21.1 Imagebase: 7FF725B20000
 
 Tools used: x64dbg for PE dump, IDA for reverse engineering, Unreal Engine 4 source code for tracking.
 
