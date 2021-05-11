@@ -2,7 +2,7 @@ MKODOK 1.21.1 and 1.22.
 
 Imagebase: 7FF725B20000
 
-Tools used: x64dbg, IDA, UE4 src for tracking.
+Tools used: x64dbg for PE dump, IDA for reverse engineering, Unreal Engine 4 source code for tracking.
 
 There will be updates to this in the future, I am new to reverse engineering so please let me know if I got anything wrong!
 
