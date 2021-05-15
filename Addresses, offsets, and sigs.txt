@@ -4,36 +4,15 @@ MKODOK 1.21.1 (Could possibly be the same for 1.22, cant be sure tho)
 
 Tools used: x64dbg for PE dump, IDA for reverse engineering, Unreal Engine 4 source code for tracking.
 
-There will be updates to this in the future, I am new to reverse engineering so please let me know if I got anything wrong!
-
-
-/* GUobjectArray *\
-
-7FF72685E5A0
-
-Offset: 0xD3E5A0
-
-48 8D 05 81 DB FF FF 48 89 44 24 30 8B 44 24 70
-
-\**/
-
-/* UObject::ProcessEvent *\
-
-7FF72684AA90 
-
-Offset: 0xD2AA90
-
-48 8B 05 A3 04 0F 03 48 8B 0C C8 48 8D 04 D1 EB 03
-
-\**/
+There will be updates to this in the future, I am new to reverse engineering so please make a pull request if I got anything wrong!
 
 /* FindObject *\
 
-7FF726852960
+7FF7260AA70A
 
-Offset: 0xD32960
+Offset: 0x58A70A
 
-80 3D 34 84 0E 03 00 45 0F B6 F1 49 8B F8
+E8 46 44 9E FF 48 8B 4C 24 50 48 8B F0
 
 \**/
 
